@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Assortmagazine>
+    <Pos name="tort">
+        <price>25</price>
+        <date>08</date>
+    </Pos>
+    <Pos name="isecreame">
+        <price>27</price>
+        <date>05</date>
+    </Pos>
+</Assortmagazine>
